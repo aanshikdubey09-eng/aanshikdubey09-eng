@@ -1,13 +1,76 @@
-<h1 align="center">Hi 👋, I'm Aanshik Dubey</h1>
-<h3 align="center">Exploring Computer Vision and Deep Learning to build intelligent real-world systems.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning,OpenCV,DeepLearning**
-
-- 📫 How to reach me **aanshik.dubey09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1400&color=7F00FF&center=true&vCenter=true&width=900&lines=Hey+there,+I'm+Aanshik+⚡" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=9D4EDD&center=true&vCenter=true&width=650&lines=Computer+Vision+Explorer;Python+AI+Developer;Deep+Learning+Builder" />
+</p>
+
+</div>
+
+
+---
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 About Me
+
+I build **real-world AI systems** focused on computer vision  
+and machine learning using Python.
+
+✔ Computer Vision  
+✔ AI / Machine Learning  
+✔ Deep Learning pipelines  
+✔ Practical problem solving  
+✔ Automation & intelligent tools  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,numpy,pandas,sklearn,vscode,jupyter,arduino,mysql" />
+</p>
+
+---
+
+## 🌱 Learning Next
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,tailwind,django,flask" />
+</p>
+
+---
+
+## 🌐 Contact
+
+<p align="center">
+<a href="https://github.com/aanshikdubey09-eng">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/aanshik-dubey/)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+> Transforming ideas into intelligent systems.*
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" />
+</div>
