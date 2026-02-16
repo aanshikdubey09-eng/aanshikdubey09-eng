@@ -1,14 +1,11 @@
 <div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1400&color=7F00FF&center=true&vCenter=true&width=900&lines=Hey+there,+I'm+Aanshik+⚡" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1400&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+there,+I'm+Aanshik+⚡" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=9D4EDD&center=true&vCenter=true&width=650&lines=Computer+Vision+Explorer;Python+AI+Developer;Deep+Learning+Builder" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Vision+Explorer" />
 
 </div>
+
 
 
 ---
